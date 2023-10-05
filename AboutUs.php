@@ -14,7 +14,7 @@ require './componets/head.php';
             <div class="contact-info float-left">
                 <i class="fa fa-envelope-o"></i> <a
                     href="mailto:info@Commercial-it-services.com">info@Commercial-it-services.com</a>
-                <i class="fa fa-phone"></i> +26 097 350585
+                <i class="fa fa-phone"></i> +26 097 35058
             </div>
             <div class="social-links float-right">
                 <!-- <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>-->
